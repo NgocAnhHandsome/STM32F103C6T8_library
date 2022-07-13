@@ -1,0 +1,16 @@
+.\objects\delay.o: ..\USER\delay.c
+.\objects\delay.o: D:\Laptrinhvidieukhien\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h
+.\objects\delay.o: H:\Lap_trinh_vi_dieu_khien\LabD20\library\lcd_lib.h\MDK_4bit\RTE\RTE_Components.h
+.\objects\delay.o: D:\Laptrinhvidieukhien\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm3.h
+.\objects\delay.o: D:\Laptrinhvidieukhien\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\delay.o: D:\Laptrinhvidieukhien\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h
+.\objects\delay.o: D:\Laptrinhvidieukhien\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\delay.o: D:\Laptrinhvidieukhien\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\delay.o: D:\Laptrinhvidieukhien\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h
+.\objects\delay.o: H:\Lap_trinh_vi_dieu_khien\LabD20\library\lcd_lib.h\MDK_4bit\RTE\Device\STM32F103C8\stm32f10x_conf.h
+.\objects\delay.o: D:\Laptrinhvidieukhien\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\objects\delay.o: D:\Laptrinhvidieukhien\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h
+.\objects\delay.o: D:\Laptrinhvidieukhien\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\delay.o: D:\Laptrinhvidieukhien\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h
+.\objects\delay.o: D:\Laptrinhvidieukhien\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\misc.h
+.\objects\delay.o: ..\USER\delay.h
